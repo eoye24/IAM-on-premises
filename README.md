@@ -33,7 +33,7 @@ I started by installing the AD DS role on the Windows Server through the Server 
 
 ### Step 2: Promoting the Server to a Domain Controller
 
-During promotion, I created a **new forest** and specified a custom domain name (e.g., `techouse.io`).  
+During promotion, I created a **new forest** and specified a custom domain name (`techouse.io`).  
 The system automatically installed DNS Server services as part of the configuration.
 
 ### Step 3: Creating Organizational Units (OUs)
